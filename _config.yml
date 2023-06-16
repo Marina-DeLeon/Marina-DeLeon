@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-#title: Microbial Future
+title: microbial future
 
 # Your name to show in the footer
-author: Marina E. De León, PhD, CNC
+author: Marina E. De Leon, PhD, CNC
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -55,7 +55,7 @@ social-network-links:
  
   github: Marina-DeLeon
   twitter: Microbial_Future
- linkedin: microbial-future
+  linkedin: microbial-future
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -68,8 +68,8 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  ORCID: 0000-0001-9973-1951
+  google-scholar: Marina Estella De León
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -114,7 +114,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+#keywords: "nutrition, microbiome, bacteria, gut health, weight loss, athletes, probiotics, disease, holistic"
 
 ######################################
 # --- Colours / background image --- #
