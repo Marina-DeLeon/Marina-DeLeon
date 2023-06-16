@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Research Gate: "https://www.researchgate.net/profile/Marina-De-Leon"
-    #- Learn markdown: "https://www.markdowntutorial.com/"
+    - Google Scholar: "https://scholar.google.com/citations?user=6CnCDL4AAAAJ&hl=en"
   #Author's home: "https://whatever.com"
 
 ################
@@ -91,7 +91,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "Marina-DeLeon.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -125,7 +125,7 @@ navbar-var-length: false
 navbar-col: "#D8D8E6"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
+page-col: "#FFFFE0"
 text-col: "#404040"
 link-col: "#00CC00"
 hover-col: "#0085A1"
