@@ -1,4 +1,4 @@
-# Beautiful Jekyll
+# Marina De León, PhD Microbial_Future
 
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 
