@@ -2,9 +2,9 @@
 layout: post
 title: You and your guts
 subtitle: Gut microbiome influence on overall health and wellbeing
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /Users/marinadeleon/Downloads/IMG_4614.jpg
+thumbnail-img: /Users/marinadeleon/Downloads/IMG_4614.jpg
+share-img: /Users/marinadeleon/Downloads/IMG_4612.jpg
 tags: [food, bacteria]
 ---
 
