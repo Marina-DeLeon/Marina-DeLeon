@@ -39,7 +39,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+#title-img: blue_test_tubes.jpeg
 
 
 #####################################
@@ -76,7 +76,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Professional nutritionist giving sound microbiological advice
 
 ###########################
 # --- General options --- #
