@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: "Your Personalized Microboime Expert"
 subtitle: Microbiome health for humans and animals
 ---
 
