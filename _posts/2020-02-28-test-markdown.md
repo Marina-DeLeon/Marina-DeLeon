@@ -14,7 +14,7 @@ The Link Between Whole Foods, Balanced Sex Hormones, and "Feel-Good" Chemicals
 
 Minimal daily dietary guidelines:
 
-|            | Men      | Women    | Children |
+|     Food   | Men      | Women    | Children |
 |------------|----------|----------|----------|
 | Vegetables | 2.5 cups | 2.5 cups | 2 cups    |
 | Fruits     | 2 cups   | 2 cups   | 1-1.5 cups|
